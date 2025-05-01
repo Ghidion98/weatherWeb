@@ -12,7 +12,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 🚀 Live Demo
 
-[Check it out here!](#)  
+[**Check it out here!**](#)  
 [weatherApp](https://ghidion98.github.io/weatherWeb/)
 
 
