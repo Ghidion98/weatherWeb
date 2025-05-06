@@ -76,7 +76,7 @@ footer {
       gap: 1px;
       width: 100%;
       height: auto;
-      margin: 5px 0;
+      margin: 0;
       background: #222;
       margin-top: 30px;
       
@@ -87,29 +87,33 @@ footer {
       padding: 30px;
       font-size: .6em;
       border-radius: 4px;
-      width: 94%;
+      width: 100%;
       height: auto;
       margin-top: 10px;
+      margin-left: 0;
+      
       
       
    }
    #cityInput {
-      width: 48%;
+      width: 100%;
       height: auto;
-      padding: 10px;
       border-radius: 4px;
       border: 1px solid #000;
       font-size: .6em;
-      margin-left: 15px;
+      text-align: left;
+      margin-left: 0;
+     
    }
    #getWeatherBtn{
-      width: 48%;
+      width: 100%;
       height: auto;
-      padding: 10px;
       border-radius: 4px;
       border: 1px solid #000;
       font-size: .6em;
       cursor: pointer;
+      text-align: left;
+      margin-left: 0;
       
    }
    footer {
