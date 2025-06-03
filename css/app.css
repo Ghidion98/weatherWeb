@@ -73,8 +73,8 @@ footer {
       color: rgb(7, 73, 227);
    }
    .container {
-      gap: 1px;
-      width: 80%;
+      gap: 2px;
+      width: 100%;
       height: auto;
       margin: 0;
       background: #222;
@@ -84,10 +84,10 @@ footer {
    #weatherResult {
       background: #fff;
       color: #000;
-      padding: 30px;
+      padding: 20px;
       font-size: .6em;
       border-radius: 4px;
-      width: 80%;
+      width: 100%;
       height: auto;
       margin-top: 10px;
       margin-left: 0;
@@ -96,7 +96,7 @@ footer {
       
    }
    #cityInput {
-      width: 80%;
+      width: 100%;
       height: auto;
       border-radius: 4px;
       border: 1px solid #000;
@@ -106,7 +106,7 @@ footer {
      
    }
    #getWeatherBtn{
-      width: 80%;
+      width: 100%;
       height: auto;
       border-radius: 4px;
       border: 1px solid #000;
