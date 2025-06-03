@@ -7,7 +7,7 @@
 
 body {
    font-family: 'Times New Roman', Times, serif;
-   background: #ccc;
+   background: url('../assets/images/mw1.jpeg');
    font-size: 1.6em;
 }
 h1 {
@@ -58,10 +58,10 @@ h1 {
    cursor: pointer;
 }
 footer {
-   color: #ccc;
+   color: #f9fbfa;
    margin-top: 130px;
    text-align: center;
-   font-size: 1em;
+   font-size: 1.4em;
 }
 
 @media (max-width: 768px) {
@@ -74,7 +74,7 @@ footer {
    }
    .container {
       gap: 1px;
-      width: 100%;
+      width: 80%;
       height: auto;
       margin: 0;
       background: #222;
@@ -87,7 +87,7 @@ footer {
       padding: 30px;
       font-size: .6em;
       border-radius: 4px;
-      width: 100%;
+      width: 80%;
       height: auto;
       margin-top: 10px;
       margin-left: 0;
@@ -96,7 +96,7 @@ footer {
       
    }
    #cityInput {
-      width: 100%;
+      width: 80%;
       height: auto;
       border-radius: 4px;
       border: 1px solid #000;
@@ -106,7 +106,7 @@ footer {
      
    }
    #getWeatherBtn{
-      width: 100%;
+      width: 80%;
       height: auto;
       border-radius: 4px;
       border: 1px solid #000;
